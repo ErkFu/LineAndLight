@@ -1,0 +1,16 @@
+{
+	"DefaultValues": {
+
+		"interstitials_time": 15,
+
+		"AB_test_users": 0
+	},
+	"ABtests": {
+		"1.0.3Ref": {
+			"panel_size": 10
+		},
+		"1.0.3A": {
+			"panel_size": 10
+		}
+	}
+}
