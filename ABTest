@@ -3,13 +3,14 @@
 
 		"interstitials_time": 15,
 
-		"AB_test_users": 0
+		"AB_test_users": 100
 	},
 	"ABtests": {
-		"1.0.3Ref": {
+		"1.0.7Ref": {
 			"panel_size": 10
 		},
-		"1.0.3A": {
+		"1.0.7A": {
+			"interstitials_time": 60,
 			"panel_size": 10
 		}
 	}
