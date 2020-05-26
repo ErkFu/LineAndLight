@@ -4,7 +4,7 @@
 		"interstitials_time": 15,
 		"skin_enable": false,
 
-		"AB_test_users": 0
+		"AB_test_users": 100
 	},
 	"ABtests": {
 		"1.1.1Ref": {
