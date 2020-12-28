@@ -1,7 +1,7 @@
 {
 	"DefaultValues": {
 
-		"interstitials_time": 1,
+		"interstitials_time": 15,
 		"skin_enable": true,
 
 		"AB_test_users": 0
